@@ -1,0 +1,69 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="UTF-8" />
+	<title>MAN: Manag Autism Now Trust</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+   <div id="header">
+		<div>
+       <div id="logo"> <img src="images/logo.jpg" width="400" height="100"></div>
+		  <div id="nav">
+          
+          <ul>
+<li  class="current"><a href="Default.aspx" target="_parent">HOME</a></li>
+				<li><a href="about.html" target="_parent">ABOUT US</a></li>
+				<li><a href="atc.html" target="_parent">ATC</a></li>
+                <li><a href="activities.aspx" target="_parent">ACTIVITIES</a></li>
+                <li><a href="press.aspx" target="_parent">PRESS</a></li>
+                <li><a href="gallery.aspx" target="_parent">GALLERY</a></li>
+                <li><a href="donate.php" target="_parent">DONATION</a></li>
+				<li><a href="contact.html" target="_parent">CONTACT US</a></li>
+			</ul></div>
+             
+		</div>
+	</div>
+	<div id="content">
+	  <div>
+	    <div>
+        <p><a href="Trainingworkshop.pdf" target="_blank" style="padding-left:127px;"><img src="images/paranetTrainingBtn.gif" width="200" height="33" alt="Parent Training" /></a></p>
+        <p><a href="upcommingEvents.aspx" target="_parent" style="padding-left:127px;"><img src="images/upcoming_link.png" width="200" height="33" alt="Upcoming Event" /></a></p>
+	      <h1>Welcome to Our Family</h1>
+	      <p><span class="para_heighlight_txt">Autism Therapy Centre (ATC)</span>, Bhubaneswar is the outcome of strong determination, commitment and sustained efforts of a few parents of children affected with autism. The centre was founded in August,2008.</p>
+	      <p>The Therapy Centre is managed by a trust called <span class="para_heighlight_txt">“Manage Autism Now (MAN)”</span> since June, 2010. The trust has five trustees including the Chairman and creator of the trust, who also happens to be a parent of a child affected by autism. The Trust, besides managing the A.T.C., is organizing seminars, symposiums, workshops on various aspects of Autism to develop awareness and focus attention on effective measures to handle the problems of Autism. <br>
+	        <a href="about.html" class="readmore">Read more...</a></p>
+            
+	      <h1>About AUTISM</h1>
+	      <p><span class="para_heighlight_txt">Autism</span> is a complex       neuro- developmental disorder&nbsp; that&nbsp; is characterized by       impaired social interaction and communication, speech and language ,and       restricted and repetitive behaviour, all starting before a child is three       years old. </p>
+	      <p>The severity may vary from mild to very severe and is hence termed as <span class="para_heighlight_txt">Autism Spectrum Disorder (ASD).</span></p>
+          
+          <p><a href="special_award.html" target="_parent"><img src="images/chinnu_award.gif" width="300" height="56" /></a></p>
+        </div>
+      </div>
+</div>
+	<div id="footer">
+	  <div>
+	    <div> <span>Follow us</span> 
+        <a href="#" target="_blank" class="facebook">Facebook</a> 
+        <a href="#" class="subscribe">Subscribe</a> 
+        <a href="#" target="_blank" class="twitter">Twitter</a> 
+        <a href="#" target="_blank" class="flicker">Flickr</a> </div>
+	    <ul>
+	      <li><img src="images/footerClip1st_2.gif" width="214" height="114">
+	        <p>"Autism is a way of being. It is pervasive; it colors every experience, every sensation, perception, thought, emotion, and encounter, every aspect of existence.&quot; Courtesy internet…</p>
+</li>
+	      <li><img src="images/footerClip2nd_1.gif" width="214" height="114">
+	        <p>"Autism to me, says that I accept my child. I celebrate his differences and his quirky-ness. I am proud of his successes, and I am proud that he is mine." Courtesy internet…</p>
+</li>
+        </ul>
+      </div>
+	  <p class="footnote">&copy; 2012 Manage Autism Now (MAN) Trust. All Rights Reserved.// <a href="manod_admin/Default.aspx" target="_blank">Admin Login</a> // Site Design &amp; Developed By <a href="http://www.wayswebdevelopment.com">Ways Web Development</a></p>
+	</div>
+    </form>
+</body>
+</html>

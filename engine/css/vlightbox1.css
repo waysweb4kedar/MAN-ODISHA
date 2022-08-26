@@ -1,0 +1,22 @@
+.vlightbox1 {
+	zoom: 1;
+	padding-top: 10px;
+	clear: both;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+.lightboxThumb {
+	padding: 5px;
+	width: 205px;
+	margin-right: 10px;
+	border: 1px solid #A48C74;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
